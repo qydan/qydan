@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aydaneng282@gmail.com**
 
-- ⚡ Fun fact **I do graphic design**
+- ⚡ Fun fact **I do graphic design!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
