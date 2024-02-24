@@ -1,17 +1,22 @@
+![MasterHead](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)
 <h1 align="center">Hi 👋, I'm Aydan Eng</h1>
 <h3 align="center">A passionate engineering student from Canada</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qydan&label=Profile%20views&color=0e75b6&style=flat" alt="qydan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qydan" alt="qydan" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🔭 I’m currently working on **Sudoku Solver**
 
+- 🌱 I’m currently learning **Django, SQL**
+
+- 💬 Ask me about **Python, Java**
+
 - 📫 How to reach me **aydaneng282@gmail.com**
+
+- ⚡ Fun fact **I do graphic design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aydaneng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aydaneng" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aydaneng282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aydaneng282" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
